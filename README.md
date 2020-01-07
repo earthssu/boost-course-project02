@@ -1,1 +1,2 @@
-# boost-course-project02
+# TODO-LIST 제작
+부스트코스 두 번째 프로젝트 결과물 (진행 중)
